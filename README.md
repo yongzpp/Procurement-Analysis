@@ -1,6 +1,6 @@
 # Procurement-Analysis
 
-## Capstone Project with DSTA
+## Capstone Project
 
 Being a significant player in the procurement industry, DSTA faces an uphill task in manually labeling every transaction. To keep up with the increasing transaction frequency and injections of funds into the procurement industry, the presence of an efficient procurement system is imperative. Hence, a classifier model is used to replace manual labellings and the consolidation of procurement information to generate actionable insights to reduce the total expenditure.
 
